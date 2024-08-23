@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="6OS-AN3bHBfAEgIZpMi8">
-    <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="836" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IvDIf2IGsIRDxhs1Tjfs-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IvDIf2IGsIRDxhs1Tjfs-2" target="IvDIf2IGsIRDxhs1Tjfs-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IvDIf2IGsIRDxhs1Tjfs-2" value="&lt;b&gt;Course Datasets&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="IvDIf2IGsIRDxhs1Tjfs-2" value="&lt;b&gt;Courses Dataset&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="60" y="190" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IvDIf2IGsIRDxhs1Tjfs-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IvDIf2IGsIRDxhs1Tjfs-3" target="IvDIf2IGsIRDxhs1Tjfs-4">
@@ -104,6 +104,18 @@
         </mxCell>
         <mxCell id="IvDIf2IGsIRDxhs1Tjfs-32" value="&lt;b&gt;Output&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IvDIf2IGsIRDxhs1Tjfs-33" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;(Masked Language Modeling)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="255" y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IvDIf2IGsIRDxhs1Tjfs-34" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;(Next Sentence Prediction)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="30" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IvDIf2IGsIRDxhs1Tjfs-35" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;(Classify)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="120" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IvDIf2IGsIRDxhs1Tjfs-37" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;(Separator)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="290" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
